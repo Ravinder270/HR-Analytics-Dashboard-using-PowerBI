@@ -1,0 +1,3 @@
+– The project aims to identify key factors driving employee attrition and provide actionable insights for improving workforce retention in an organization.
+ – An interactive dashboard is developed to visualize HR metrics and insights related to employee attrition, aiding the HR team in their analysis.
+ – The project offers data-driven recommendations for strategic decision-making to enhance workforce retention.
